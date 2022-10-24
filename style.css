@@ -351,6 +351,7 @@ li {
 
     #menu-icon{
         display: inline;
+        /* Citation: Souce for hamburger menu: https://alvarotrigo.com/blog/hamburger-menu-css/ */
     }
 
     #menu-icon:visited + .line{
